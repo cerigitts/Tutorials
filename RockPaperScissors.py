@@ -1,6 +1,6 @@
 # codedex checkpoint project
 # update to include Lizard & Spock
-
+# corrected cpu print from You to CPU
 
 import random
 
@@ -31,18 +31,19 @@ elif player == 3:
     print('You chose: ✌️')
 elif player == 4:
     print('You chose: 🦎')
-else:
+elif player == 5:
     print('You chose: 🖖')
+    
 if cpu == 1:
-    print('You chose: ✊')
+    print('CPU chose: ✊')
 elif cpu == 2:
-    print('You chose: ✋')
+    print('CPU chose: ✋')
 elif cpu == 3:
-    print('You chose: ✌️')
+    print('CPU chose: ✌️')
 elif cpu == 4:
-    print('You chose: 🦎')
-else:
-    print('You chose: 🖖')
+    print('CPU chose: 🦎')
+elif cpu == 5:
+    print('CPU chose: 🖖')
 
 
 # player winning conditions
