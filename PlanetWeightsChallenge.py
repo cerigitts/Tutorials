@@ -1,4 +1,4 @@
-#codedex planet weights challenge
+# Codedex planet weights challenge
 
 planet_name = ['Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune']
 planet_gravity = [0.38, 0.91, 1.00, 0.38, 2.34, 1.06, 0.92, 1.19]

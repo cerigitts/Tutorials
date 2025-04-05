@@ -1,4 +1,4 @@
-#codedex food rating challenge
+# Codedex food rating challenge
 
 rating = 4.5
 

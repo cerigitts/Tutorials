@@ -1,4 +1,4 @@
-#seasons of the year
+# Seasons of the year
 
 month = int(input('What month of the year is it?.'))
 

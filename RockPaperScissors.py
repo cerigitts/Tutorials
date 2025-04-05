@@ -1,6 +1,6 @@
-# codedex checkpoint project
-# update to include Lizard & Spock
-# corrected cpu print from You to CPU
+# Codedex checkpoint project
+# Update to include Lizard & Spock
+# Corrected cpu print from You to CPU
 
 import random
 
@@ -46,7 +46,7 @@ elif cpu == 5:
     print('CPU chose: 🖖')
 
 
-# player winning conditions
+# Player winning conditions
 # 1 beats 3 & 4
 # 2 beats 1 & 5
 # 3 beats 2 & 4
